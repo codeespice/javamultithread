@@ -1,4 +1,4 @@
-package notes14.interrupt;
+package com.java.multithread.notes14.interrupt;
 
 import java.util.Random;
 import java.util.concurrent.*;
